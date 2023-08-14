@@ -1,2 +1,2 @@
-# alladjectives
+# english_wordlist
 test
